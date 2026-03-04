@@ -7,12 +7,42 @@
 ---
 
 ## 📋 Overview
+ AI-powered resume analyzer that parses resumes, scores them, and provides improvement suggestions using NLP.  
 
-A powerful Streamlit-based web application that leverages Natural Language Processing (NLP) to automatically parse resumes and extract key candidate information. Perfect for recruiters, HR professionals, and hiring managers looking to streamline their resume screening process.
-
+**Tech:** Python, Streamlit, NLP  
+**Repo:** https://github.com/ZafarAli001/SmartResumee
 > **🎓 College Group Project** - This project was developed as a collaborative college group project.
 
 ---
+
+## 🎯 Problem Statement
+
+In today's competitive job market, recruiters and HR professionals face the challenge of processing hundreds or thousands of resumes for each job opening. Manually screening resumes is:
+
+- ⏰ **Time-consuming** - Hours spent reviewing each resume individually
+- 😓 **Error-prone** - Important candidate details can be overlooked
+- 📊 **Inconsistent** - Different evaluators may extract information differently
+- 💰 **Costly** - Significant resources allocated to initial screening
+
+## 💡 Our Solution
+
+Smart Resume Analyzer automates the resume screening process using advanced Natural Language Processing (NLP) techniques. Our application:
+
+- ⚡ **Instantly parses** PDF resumes and extracts critical information
+- 🎯 **Identifies key details** including contact information, skills, education, and work experience
+- 📈 **Standardizes extraction** ensuring consistent data capture across all resumes
+- 🚀 **Accelerates hiring** by reducing screening time from hours to seconds
+
+## 🔧 Technology Stack
+
+- **Frontend:** Streamlit Web Framework
+- **Backend:** Python 3.8+
+- **NLP Library:** NLTK (Natural Language Toolkit)
+- **PDF Processing:** pdfminer3
+- **Data Handling:** pandas
+- **Visualization:** plotly
+- **Database:** SQLite (resume_data.db)
+
 
 ## ✨ Features
 
