@@ -1,39 +1,58 @@
-# Smart Resume Analyzer
+# 🚀 Smart Resume Analyzer
 
-A Streamlit web application that analyzes resumes and extracts key information using natural language processing techniques.
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-ff4b4b.svg)](https://streamlit.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Features
+---
 
-- PDF Resume parsing
-- Information extraction:
-  - Name
-  - Email
-  - Phone number
-  - Skills
-  - Education
-  - Work experience
-- Clean and modern user interface
-- Easy-to-use file upload system
+## 📋 Overview
 
-## Installation
+A powerful Streamlit-based web application that leverages Natural Language Processing (NLP) to automatically parse resumes and extract key candidate information. Perfect for recruiters, HR professionals, and hiring managers looking to streamline their resume screening process.
 
-1. Clone the repository:
+> **🎓 College Group Project** - This project was developed as a collaborative college group project.
+
+---
+
+## ✨ Features
+
+- 📄 **PDF Resume Parsing** - Upload and analyze PDF resumes effortlessly
+- 🔍 **Smart Information Extraction**:
+  - 👤 Name
+  - 📧 Email
+  - 📱 Phone Number
+  - 💼 Skills
+  - 🎓 Education
+  - 💡 Work Experience
+- 🎨 **Modern UI** - Clean, intuitive, and user-friendly interface
+- 📤 **Easy Upload System** - Drag-and-drop file upload functionality
+
+---
+
+## 🛠️ Installation
+
+### Step 1: Clone the Repository
+
 ```bash
-git clone https://github.com/InsaneInsaan03/WebApp.git
-cd WebApp
+git clone https://github.com/ZafarAli001/Smart-Resume-Analyzer.git
+cd Smart-Resume-Analyzer
 ```
 
-2. Install the required dependencies:
+### Step 2: Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the application:
+### Step 3: Run the Application
+
 ```bash
 streamlit run App.py
 ```
 
-## Dependencies
+---
+
+## 📦 Dependencies
 
 - Python 3.8+
 - Streamlit
@@ -45,12 +64,66 @@ streamlit run App.py
 - NLTK
 - pdfminer3
 
-## Usage
+---
 
-1. Launch the application using `streamlit run App.py`
-2. Upload a PDF resume through the web interface
-3. View the extracted information and analysis
+## 💻 Usage
 
-## Contributing
+1. **Launch** the application using `streamlit run App.py`
+2. **Upload** a PDF resume through the web interface
+3. **View** the extracted information and detailed analysis
 
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+
+- 🐛 Submit issues for bugs or feature requests
+- 🍴 Fork the repository
+- 🔀 Create pull requests with improvements
+- ⭐ Star the repo to show support
+
+### How to Contribute
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 👥 Project Creators
+
+**Developed as a College Group Project by:**
+
+| Creator | GitHub |
+|---------|--------|--------|
+| **Mohammad Insaan** | [@InsaneInsaan03](https://github.com/InsaneInsaan03) | 
+| **Gulam Zafar Ali** | [@ZafarAli001](https://github.com/ZafarAli001) | 
+
+---
+
+## ❤️ Made With Love
+
+This project is a collaborative effort developed during our college journey. We worked together to create a tool that simplifies resume screening using modern NLP techniques.
+
+**🌟 If you find this project helpful, please consider giving it a star!**
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+**Built by Mohammad Insaan & Gulam Zafar Ali**
+
+*College Group Project | Python & Streamlit*
+
+[⬆ Back to Top](#-smart-resume-analyzer)
+
+</div>
